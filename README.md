@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi, I'm Herdo Dimas Pratirto 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FACC15&height=180&section=header&text=Herdo%20Dimas%20Pratirto&fontSize=42&fontColor=FACC15&fontAlignY=38&desc=I%20build%20Snapgate%20AI&descAlignY=58&descSize=16&descColor=FFE066" width="100%" />
 
-**I build Snapgate AI** — tools that turn everyday AI chats into agents that get real work done.
-
-[![Website](https://img.shields.io/badge/Website-snapgate.tech-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snapgate.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-herdodimas46-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herdodimas46)
-[![GitHub](https://img.shields.io/badge/GitHub-herdodp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/herdodp)
+[![Website](https://img.shields.io/badge/Website-snapgate.tech-FACC15?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000)](https://snapgate.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-herdodimas46-FACC15?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/herdodimas46)
+[![GitHub](https://img.shields.io/badge/GitHub-herdodp-FACC15?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/herdodp)
 
 📍 Indonesia
 
@@ -14,33 +12,33 @@
 
 ---
 
-## 🚀 What I'm building
+## <span style="color:#FACC15">🚀 What I'm building</span>
 
-### [Snapgent](https://github.com/herdodp/snapgent)
+### <span style="color:#FACC15">▸ [Snapgent](https://github.com/herdodp/snapgent)</span>
 A browser extension + local bridge that lets any AI chat (DeepSeek, ChatGPT, GLM) **read, edit, run, and inspect your VS Code project** through the official MCP server. No API key, no terminal, no copy-pasting code.
 
-### [Browser Chat AI → Roblox Studio](https://github.com/herdodp/browser-chat-AI-to-roblox-studio)
+### <span style="color:#FACC15">▸ [Browser Chat AI → Roblox Studio](https://github.com/herdodp/browser-chat-AI-to-roblox-studio)</span>
 The same idea for Roblox Studio — turn a normal web AI chat into an agent that **builds, scripts, and inspects your place** live through the Studio MCP server.
 
 ---
 
-## 🧰 Tech & tools
+## <span style="color:#FACC15">🧰 Tech & tools</span>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-8B5CF6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-FACC15?style=flat-square&logo=python&logoColor=000000)
+![Luau](https://img.shields.io/badge/Luau-FACC15?style=flat-square&logo=lua&logoColor=000000)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-MV3-FACC15?style=flat-square&logo=googlechrome&logoColor=000000)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FACC15?style=flat-square&logoColor=000000)
 
 ---
 
-## 📊 GitHub stats
+## <span style="color:#FACC15">📊 GitHub stats</span>
 
 <div align="center">
 
-![Herdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=herdodp&show_icons=true&hide_border=true&count_private=true)
+![Herdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=herdodp&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FACC15&text_color=FFE066&icon_color=FACC15)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdodp&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdodp&layout=compact&hide_border=true&bg_color=000000&title_color=FACC15&text_color=FFE066)
 
 </div>
 
@@ -48,7 +46,7 @@ The same idea for Roblox Studio — turn a normal web AI chat into an agent that
 
 <div align="center">
 
-### 🌐 Let's connect
+### <span style="color:#FACC15">🌐 Let's connect</span>
 
 Building something with AI agents? Reach out — always happy to talk.
 
