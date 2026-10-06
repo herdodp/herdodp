@@ -12,16 +12,6 @@
 
 ---
 
-## <span style="color:#FACC15">🚀 What I'm building</span>
-
-### <span style="color:#FACC15">▸ [Snapgent](https://github.com/herdodp/snapgent)</span>
-A browser extension + local bridge that lets any AI chat (DeepSeek, ChatGPT, GLM) **read, edit, run, and inspect your VS Code project** through the official MCP server. No API key, no terminal, no copy-pasting code.
-
-### <span style="color:#FACC15">▸ [Browser Chat AI → Roblox Studio](https://github.com/herdodp/browser-chat-AI-to-roblox-studio)</span>
-The same idea for Roblox Studio — turn a normal web AI chat into an agent that **builds, scripts, and inspects your place** live through the Studio MCP server.
-
----
-
 ## <span style="color:#FACC15">🧰 Tech & tools</span>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=000000)
