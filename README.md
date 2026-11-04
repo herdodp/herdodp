@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![Herdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=herdodp&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FACC15&text_color=FFE066&icon_color=FACC15)
+![Herdo's GitHub stats](profile-summary-card-output/monokai/3-stats.svg)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdodp&layout=compact&hide_border=true&bg_color=000000&title_color=FACC15&text_color=FFE066)
+![Top languages](profile-summary-card-output/monokai/2-most-commit-language.svg)
 
 </div>
 
