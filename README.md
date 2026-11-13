@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![Herdo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herdodp&theme=monokai)
+![Herdo's GitHub stats](profile-summary-card-output/monokai/stats.svg)
 
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herdodp&theme=monokai)
+![Top languages](profile-summary-card-output/monokai/languages.svg)
 
 </div>
 
