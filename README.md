@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![Herdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=herdodp&show_icons=true&theme=monokai&hide_border=true)
+![Herdo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herdodp&theme=monokai)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herdodp&layout=compact&theme=monokai&hide_border=true)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herdodp&theme=monokai)
 
 </div>
 
