@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="180" viewBox="0 0 340 180">
+<rect width="340" height="180" rx="8" fill="#272822"/>
+<text x="20" y="34" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="18" font-weight="700" fill="#FACC15">GitHub Stats</text>
+<text x="20" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" fill="#F8F8F2">Total Stars</text>
+<text x="320" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="end" fill="#FACC15">90</text>
+<text x="20" y="100" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" fill="#F8F8F2">Public Repos</text>
+<text x="320" y="100" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="end" fill="#FACC15">29</text>
+<text x="20" y="130" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" fill="#F8F8F2">Forks Received</text>
+<text x="320" y="130" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="end" fill="#FACC15">29</text>
+<text x="20" y="160" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" fill="#F8F8F2">Followers</text>
+<text x="320" y="160" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="end" fill="#FACC15">8</text>
+</svg>
