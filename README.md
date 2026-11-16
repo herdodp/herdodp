@@ -16,8 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-FACC15?style=flat-square&logo=python&logoColor=000000)
 ![Luau](https://img.shields.io/badge/Luau-FACC15?style=flat-square&logo=lua&logoColor=000000)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-MV3-FACC15?style=flat-square&logo=googlechrome&logoColor=000000)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FACC15?style=flat-square&logoColor=000000)
+
 
 ---
 
