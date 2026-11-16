@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/Website-snapgate.tech-FACC15?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000)](https://snapgate.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-herdodimas46-FACC15?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/herdodimas46)
-[![GitHub](https://img.shields.io/badge/GitHub-herdodp-FACC15?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/herdodp)
 
 📍 Indonesia
 
